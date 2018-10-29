@@ -6,3 +6,11 @@ f:\Tempo\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.Propertie
 f:\Tempo\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.csproj.GenerateResource.Cache
 f:\Tempo\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.exe
 f:\Tempo\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.pdb
+F:\Tempo\New local repo\Newrepocreatedwithdesktop\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.exe
+F:\Tempo\New local repo\Newrepocreatedwithdesktop\WindowsFormsApplication29\bin\Debug\WindowsFormsApplication29.exe
+F:\Tempo\New local repo\Newrepocreatedwithdesktop\WindowsFormsApplication29\bin\Debug\WindowsFormsApplication29.pdb
+F:\Tempo\New local repo\Newrepocreatedwithdesktop\WindowsFormsApplication29\obj\Debug\ResolveAssemblyReference.cache
+F:\Tempo\New local repo\Newrepocreatedwithdesktop\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.Form1.resources
+F:\Tempo\New local repo\Newrepocreatedwithdesktop\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.Properties.Resources.resources
+F:\Tempo\New local repo\Newrepocreatedwithdesktop\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.csproj.GenerateResource.Cache
+F:\Tempo\New local repo\Newrepocreatedwithdesktop\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.pdb

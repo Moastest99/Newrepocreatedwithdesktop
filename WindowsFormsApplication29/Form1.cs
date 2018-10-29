@@ -18,8 +18,8 @@ namespace WindowsFormsApplication29
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            int? i = null;
-            int j = 512 + i;
+            int? i = 0;
+            int j = 512 + (int)i;
         }
     }
 }
